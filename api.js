@@ -1,4 +1,4 @@
-function getData(search_term){
+function getData(){
     
     const endpoint=""//insert your endpoint into this string
     
@@ -6,7 +6,7 @@ function getData(search_term){
     .then(
         
         function(data){
-            return data.json
+            return data.json()
         })
     .then(
         function(json){
