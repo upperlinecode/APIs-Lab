@@ -40,7 +40,7 @@ Choose one of the APIs below. Use the endpoint and documentation to create an ap
 
   #### Bonus
 
-    Figure out how to search by brand and product type (so that it would only return mascaras by Maybelline, for example).
+    Figure out how to search by brand and product type (so that it would only return mascaras by Maybelline, for example). You could use this idea to search by as many of the parameters listed in the documentation as you would like. 
   
     Use iteration to output information about all of the products returned by the API.
   
