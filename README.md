@@ -22,7 +22,9 @@ Choose one of the APIs below. Use the endpoint and documentation to create an ap
     
   #### Bonus
   
-    Apply for an API Key and figure out how to use it to gain additional access to book information. 
+Apply for an API Key and figure out how to use it to gain additional access to book information. 
+
+Use Bootstrap to style the page.
 
 ## Github
 
@@ -38,9 +40,9 @@ Choose one of the APIs below. Use the endpoint and documentation to create an ap
 
   #### Bonus
 
-    Output the number of repositories, and make their picture link to their Github profile page
+Output the number of repositories, and make their picture link to their Github profile page
   
-    Use Materialize to style the page
+Use Bootstrap to style the page
   
 ## Makeup 
 
@@ -56,9 +58,9 @@ Choose one of the APIs below. Use the endpoint and documentation to create an ap
 
   #### Bonus
 
-    Figure out how to search by brand and product type (so that it would only return mascaras by Maybelline, for example). You could use this idea to search by as many of the parameters listed in the documentation as you would like. 
+Figure out how to search by brand and product type (so that it would only return mascaras by Maybelline, for example). You could use this idea to search by as many of the parameters listed in the documentation as you would like. 
   
-    Use iteration to output information about all of the products returned by the API.
+Use iteration to output information about all of the products returned by the API.
   
-    Style the page using Materialize
+Style the page using Bootstrap
   
