@@ -8,6 +8,22 @@
 
 Choose one of the APIs below. Use the endpoint and documentation to create an app! 
 
+## Google Books
+
+  Use the Google Books API to search for basic book information by author, keyword, etc.
+
+  #### Sample Endpoint
+  
+    https://www.googleapis.com/books/v1/volumes?q=rupi+kaur
+  
+  #### Documentation
+  
+    https://developers.google.com/books/
+    
+  #### Bonus
+  
+    Apply for an API Key and figure out how to use it to gain additional access to book information. 
+
 ## Github
 
   Use the Github API to search for an individual user, and output their name, picture, and username to the screen. 
